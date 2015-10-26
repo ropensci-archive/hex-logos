@@ -1,7 +1,7 @@
-![](R%20OPEN%20SCI_Blue.png)
+![](rOpenSci_Blue.png)
 
-![](R%20OPEN%20SCI_Green.png)
+![](rOpenSci_Green.png)
 
-![](R%20OPEN%20SCI_Orange.png)
+![](rOpenSci_Orange.png)
 
-![](R%20OPEN%20SCI_Red.png)
+![](rOpenSci_Red.png)
