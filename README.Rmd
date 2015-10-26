@@ -1,0 +1,12 @@
+---
+title: "rOpenSci hex logos"
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r, results ="asis", echo = FALSE}
+fig_files <- dir(pattern = "png$") 
+cat(paste0("![](", fig_files, ")\n\n"))
+```
+
