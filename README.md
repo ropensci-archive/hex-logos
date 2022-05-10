@@ -1,14 +1,5 @@
-⚠
+# hex-logos
 
-The new logos can be found in [https://github.com/ropensci/logos](https://github.com/ropensci/logos).
+[![Project Status: Abandoned](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 
-⚠
-
-
-![](rOpenSci_Blue.png)
-
-![](rOpenSci_Green.png)
-
-![](rOpenSci_Orange.png)
-
-![](rOpenSci_Red.png)
+This repository has been archived. The former README is now in [README-NOT.md](README-NOT.md).
